@@ -1,0 +1,27 @@
+body {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  .one{
+    margin: 32px;
+    background: pink;
+    border: 3px solid blue;
+    padding: 32px;
+    margin: 12px;
+  }
+
+  .two{
+    margin: 32px;   
+    background: blue; 
+    border: 3px solid red;  
+    margin-bottom: 48px;
+  }
+
+  .three{
+    margin: 32px;
+    background: orange; 
+    border: 3px solid red;
+    padding: 32px;
+    margin-left: auto;
+    width: 200px;
+  }
